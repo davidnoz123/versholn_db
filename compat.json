@@ -1,8 +1,11 @@
 {
-  "schema": 1,
+  "schema": 2,
   "promoted_at": "2026-04-14T00:00:00Z",
   "repos": {
-    "https://github.com/davidnoz123/versholn.git":  { "sha": "4050bcfe6bf14c50ff8016dfa280e48891d101cd" },
+    "https://github.com/davidnoz123/versholn.git":  { "sha": "ce81331ec89163cea6215c79bf92f2dab7744ef3" },
     "https://github.com/davidnoz123/geo_tools.git": { "sha": "9c94dceb90ae6928afa41ec44dfd079064573ded", "private": true }
+  },
+  "pip": {
+    "httpx": ">=0.27.2"
   }
 }
