@@ -2,8 +2,7 @@
   "schema": 1,
   "promoted_at": "2026-04-13T00:00:00Z",
   "repos": {
-    "versholn":      { "sha": "e2aa79a", "url": "https://github.com/davidnoz123/versholn.git" },
-    "geo_tools":     { "sha": "9c94dce", "url": "https://github.com/davidnoz123/geo_tools.git", "private": true },
-    "nielsoln_site": { "sha": "3375ecb", "url": "https://github.com/davidnoz123/nielsoln_site.git", "private": true }
+    "versholn":  { "sha": "e2aa79a", "url": "https://github.com/davidnoz123/versholn.git" },
+    "geo_tools": { "sha": "9c94dce", "url": "https://github.com/davidnoz123/geo_tools.git", "private": true }
   }
 }
