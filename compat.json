@@ -1,6 +1,5 @@
 {
   "schema": 1,
-  "sha": "bce5fe91e310b5d3dc1f8d55200ebded6bcec86c",
   "promoted_at": "2026-04-13T00:00:00Z",
   "repos": {
     "versholn":  { "sha": "4dcd31bc8fa2dba68bd9cc20c825ed9564b3053f", "url": "https://github.com/davidnoz123/versholn.git" },
