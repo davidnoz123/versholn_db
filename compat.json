@@ -2,8 +2,12 @@
   "schema": 2,
   "promoted_at": "2026-04-14T00:00:00Z",
   "repos": {
-    "https://github.com/davidnoz123/versholn.git":  { "sha": "ce81331ec89163cea6215c79bf92f2dab7744ef3" },
-    "https://github.com/davidnoz123/geo_tools.git": { "sha": "fe93e56ff790f710ecdb7743808412cf1df0db11", "private": true }
+    "https://github.com/davidnoz123/versholn.git":          { "sha": "ce81331ec89163cea6215c79bf92f2dab7744ef3" },
+    "https://github.com/davidnoz123/geo_tools.git":         { "sha": "fe93e56ff790f710ecdb7743808412cf1df0db11", "private": true },
+    "https://github.com/davidnoz123/project_tools.git":     { "sha": "c55d2633d7ab0c4cb20975d1d4614220b80c66ff", "private": true },
+    "https://github.com/davidnoz123/chrome_tools.git":      { "sha": "6a141f4678d1fed979f9ba05cc4daa318e7f21ce", "private": true },
+    "https://github.com/davidnoz123/excel_tools.git":       { "sha": "1ddc74066e11a1f229d985531b1fbbb12fb3ff69", "private": true },
+    "https://github.com/davidnoz123/local_server_tools.git":{ "sha": "b605546cf9057514d516ebcdd9de4151908531e4", "private": true }
   },
   "pip": {
     "httpx": ">=0.27.2"
